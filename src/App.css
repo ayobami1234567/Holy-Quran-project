@@ -161,7 +161,7 @@ body {
   display: flex;
   flex-direction: column;
   margin-top: 60px;
-  background: linear-gradient(90.21deg, #f4edf1 -5.91%, #efeef2 111.58%);
+/*   background: linear-gradient(90.21deg, #f4edf1 -5.91%, #efeef2 111.58%); */
   margin-bottom: 50px
 }
 
